@@ -6,7 +6,7 @@ CRUD nos registros de projetos e serviços.
 
 ### Links funcionais
 - /home
-- /Projetos
+- /projetos
 - /services  
 
 ### Server JSON 
