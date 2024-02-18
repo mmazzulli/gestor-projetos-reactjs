@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": "1f78",
+      "name": "Casabella Móveis",
+      "Budget": "3500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1444,
+      "disponivel": 2056,
+      "services": [
+        {
+          "name": "MKT",
+          "cost": "1000",
+          "description": "Serviço de mkt",
+          "id": "381d01dc-5b67-4c27-9dbb-ab29099f7f04"
+        },
+        {
+          "name": "Workspace Web",
+          "cost": "444",
+          "description": "Estilização",
+          "id": "27a696bf-fdec-4a33-9d4f-e222b4a301c7"
+        }
+      ]
+    },
+    {
+      "id": "6e51",
+      "name": "Web Marchesin",
+      "Budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "disponivel": 3000,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+
+.project_container {
+   position: inherit;  
+}
+
+.project_container h1 {
+    color: rgb(240, 239, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.project_container p {
+    margin: .3em 0 1.5em 0;
+    color: rgb(240, 239, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.project_container input {
+    width: 450px;
+    margin: 0.7em;
+    padding: .5em;
+    border: 2px solid #767676;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.project_container input[type=submit] {
+    width: 350px;
+   }
+
+.project_container select {
+    width: 450px;
+    margin: 0.7em;
+    padding: .5em;
+    border: 2px solid #767676;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+
+}

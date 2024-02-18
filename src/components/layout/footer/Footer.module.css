@@ -1,0 +1,23 @@
+.icones {
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 0 0 0;
+}
+
+.icones li svg {
+    font-size: 1.5em;
+}
+
+.icones li svg:hover {
+    color: #ffbb33;
+    cursor: pointer;
+}
+
+
+
+.copy p {
+    width: 100%;
+    color: rgb(210, 240, 247);
+    padding: 5px 0 5px 0;
+}

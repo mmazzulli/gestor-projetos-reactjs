@@ -1,0 +1,18 @@
+
+p {
+    font-size: 1.8em;
+}
+
+.project_container {
+    padding: 2em;
+}
+
+.title_container {
+    margin: 2em;
+}
+
+.starter {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
