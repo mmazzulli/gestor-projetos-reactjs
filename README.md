@@ -5,7 +5,6 @@ Frontend com simulação de backend em file db.json .
 CRUD nos registros de projetos e serviços.  
 
 ### Links funcionais
-- /home
 - /projetos
 - /services  
 
